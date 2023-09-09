@@ -1,2 +1,2 @@
 # django-polls
-Advanced tutorial: How to write reusable apps - STANDALONE MODULE example
+Advanced tutorial: How to write reusable apps - STANDALONE PACKAGE example
