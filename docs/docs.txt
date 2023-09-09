@@ -1,0 +1,11 @@
+This package is a result of the official django tutorial "Advanced
+tutorial: How to write reusable apps". This advnced tutorial, in turn, is
+a part of the initial Django tutorial. So the polls directory is a COPY
+of the original tutorial's code.
+
+Source: https://docs.djangoproject.com/en/4.2/intro/reusable-apps/
+
+
+For more information on packaging, see Python’s Tutorial on Packaging and
+Distributing Projects.
+(https://packaging.python.org/en/latest/tutorials/packaging-projects/)
